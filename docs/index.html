@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Augusto Mate | Responsible AI Engineering</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Portfolio focused on responsible AI, automation and software engineering." />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+<nav class="nav glass">
+  <strong class="brand">Augusto Mate</strong>
+
+  <div class="nav-links">
+    <a href="#about" data-i18n="menu.about"></a>
+    <a href="#focus" data-i18n="menu.focus"></a>
+    <a href="#work" data-i18n="menu.work"></a>
+    <a href="#framework" data-i18n="menu.framework"></a>
+    <a href="#academic" data-i18n="menu.academic"></a>
+  </div>
+
+  <div class="nav-controls">
+    <button class="toggle" id="langToggle">PT</button>
+    <button class="toggle" id="themeToggle">🌙</button>
+  </div>
+</nav>
+
+<main class="page">
+
+  <header class="hero glass reveal">
+    <img src=".../assets/augusto-mate-avatar.jpg" alt="Augusto Mate" />
+    <h1>Augusto Mate</h1>
+    <p data-i18n="headline"></p>
+  </header>
+
+  <section id="about" class="glass reveal">
+    <h2 data-i18n="about.title"></h2>
+    <p data-i18n="about.text"></p>
+  </section>
+
+  <section id="focus" class="glass reveal">
+    <h2 data-i18n="focus.title"></h2>
+    <ul class="focus">
+      <li data-i18n="focus.i1"></li>
+      <li data-i18n="focus.i2"></li>
+      <li data-i18n="focus.i3"></li>
+      <li data-i18n="focus.i4"></li>
+    </ul>
+  </section>
+
+  <section id="work" class="glass reveal">
+    <h2 data-i18n="work.title"></h2>
+
+    <article class="card">
+      <h3 data-i18n="work.project.title"></h3>
+      <p data-i18n="work.project.desc"></p>
+
+      <div class="actions">
+        <a class="btn secondary" href="https://github.com/software-development-course-2025/ai-se-w07-ethics-responsibility" target="_blank" data-i18n="work.repo"></a>
+        <a class="btn primary" href="https://software-development-course-2025.github.io/ai-se-w07-ethics-responsibility/" target="_blank" data-i18n="work.demo"></a>
+      </div>
+    </article>
+  </section>
+
+  <section id="framework" class="glass reveal">
+    <h2 data-i18n="framework.title"></h2>
+
+    <!-- CONCEPTUAL DIAGRAM -->
+    <svg viewBox="0 0 900 160" width="100%" aria-label="Responsible AI lifecycle">
+      <defs>
+        <style>
+          .box { fill: rgba(255,255,255,.06); stroke: rgba(255,255,255,.2); rx: 10; }
+          .text { fill: currentColor; font-size: 14px; text-anchor: middle; dominant-baseline: middle; }
+          .arrow { stroke: #38bdf8; stroke-width: 2; marker-end: url(#arrow); }
+        </style>
+        <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7" fill="#38bdf8"/>
+        </marker>
+      </defs>
+
+      <rect x="20" y="50" width="160" height="60" class="box"/>
+      <rect x="200" y="50" width="160" height="60" class="box"/>
+      <rect x="380" y="50" width="160" height="60" class="box"/>
+      <rect x="560" y="50" width="160" height="60" class="box"/>
+      <rect x="740" y="50" width="160" height="60" class="box"/>
+
+      <text id="diag-step-design" data-i18n="framework.diag-step-design" x="100" y="80" class="text">Design & Data</text>
+      <text id="diag-step-risk" data-i18n="framework.diag-step-risk" x="280" y="80" class="text">Risk Analysis</text>
+      <text id="diag-step-mit" data-i18n="framework.diag-step-mit" x="460" y="80" class="text">Mitigation</text>
+      <text id="diag-step-deploy" data-i18n="framework.diag-step-deploy" x="640" y="80" class="text">Deployment</text>
+      <text id="diag-step-monitor" data-i18n="framework.diag-step-monitor" x="820" y="80" class="text">Monitoring</text>
+
+      <line x1="180" y1="80" x2="200" y2="80" class="arrow"/>
+      <line x1="360" y1="80" x2="380" y2="80" class="arrow"/>
+      <line x1="540" y1="80" x2="560" y2="80" class="arrow"/>
+      <line x1="720" y1="80" x2="740" y2="80" class="arrow"/>
+    </svg>
+  </section>
+
+  <section id="academic" class="glass reveal">
+    <h2 data-i18n="academic.title"></h2>
+    <p data-i18n="academic.text"></p>
+  </section>
+
+  <footer data-i18n="footer.text">
+  </footer>
+
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
