@@ -32,7 +32,7 @@ I am a technology enthusiast transitioning into the field of <strong>Artificial 
 
 Currently, while honing my skills in cybersecurity and backend development, I am focused on consolidating my mastery of Python so that I can soon specialize in <strong>Machine Learning</strong> models and data processing to solve complex problems. Through platforms such as <strong>MIT OCW</strong> and <strong>NetAcad</strong>, I maintain a steady pace of evolution, combining software development with security practices. 
 
-<strong>Follow my technical environment and current progress:</strong>
+<strong>Explore my technical environment below:</strong>
 
 <!--Terminal Block-->
 ### 💻 [augusto_*profile@AI*_Labs:~$]
@@ -157,7 +157,7 @@ i4j5k6l Setup: Configure Linux environment for GPU acceleration
 
 | Project | Overview | Interactive Demo | Source Code |
 |---------|----------|------------------|-------------|
-| 🛡️ **AegisMon** | AI-driven security monitoring with predictive threat detection, automated anomaly response, robust logging, and CI/CD-aligned packaging  | [![Live App](https://img.shields.io/badge/Live%20App-1E3A8A?style=for-the-badge&logo=streamlit)](https://augusto-mate-aegismon.streamlit.app/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/augusto-mate/aegismon) |
+| 🛡️ **AegisMon** | AI-driven security monitoring with predictive threat detection, automated anomaly response, logging, and CI/CD-aligned packaging  | [![Live App](https://img.shields.io/badge/Live%20App-1E3A8A?style=for-the-badge&logo=streamlit)](https://augusto-mate-aegismon.streamlit.app/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/augusto-mate/aegismon) |
 | 📁 **AI Ethics & Responsibility** | Responsible AI in Software Engineering, with emphasis on practical application and research evidence | [![Live App](https://img.shields.io/badge/Live%20App-0096C7?style=for-the-badge&logo=github)](https://software-development-course-2025.github.io/ai-se-w07-ethics-responsibility/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/software-development-course-2025/ai-se-w07-ethics-responsibility) |
 | 📑 **LearnLoop** | Educational platform that combines AI and peer teaching so students explain what they have learned, retaining more knowledge | [![Live App](https://img.shields.io/badge/Live%20App-2F2F2F?style=for-the-badge&logo=netlify)](https://learnloop-ai.netlify.app/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/augusto-mate/learnloop) |
 | 💡 **StudyInsight** | Learning tool that combines JSON knowledge, agile research, and an engaging UI to master technical skills | [![Live App](https://img.shields.io/badge/Live%20App-0096C7?style=for-the-badge&logo=github)](https://augusto-mate.github.io/studyinsight/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/augusto-mate/studyinsight) |
