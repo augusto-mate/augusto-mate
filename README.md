@@ -76,7 +76,7 @@ i4j5k6l Setup: Configure Linux environment for GPU acceleration
 
 | Platform | Learning Path / Certification | Status |
 | :--- | :--- | :--- |
-| **Cisco NetAcad** | [Introduction to Cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US) | ✅ Completed |
+| **Cisco Networking Academy** | [Introduction to Cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US) | ✅ Completed |
 | **MIT OpenCourseWare** | [Intro to Computer Science (Python)](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | 🚧 In Progress (5%) |
 
 <br />
