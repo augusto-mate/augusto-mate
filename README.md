@@ -68,8 +68,8 @@ i4j5k6l Setup: Configure Linux environment for GPU acceleration
 <div align="center">
   <img src="https://img.shields.io/badge/Daily-Inspiration-EB5406?style=for-the-badge&logo=bookstack&logoColor=white" alt="Inspiration" />
   
-  <p><i>"The heart of the discerning acquires knowledge, and the ear of the wise seeks wisdom."</i></p>
-  <p><b>— Proverbs 18:15</b></p>
+  <p><i>"The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them."</i></p>
+  <p><b>— Proverbs 11:3</b></p>
 </div>
 
 #### 🎓 Current Certifications & Tracks
@@ -159,7 +159,7 @@ i4j5k6l Setup: Configure Linux environment for GPU acceleration
 |---------|----------|------------------|-------------|
 | 🛡️ **AegisMon** | AI-driven security monitoring with predictive threat detection, automated anomaly response, logging, and CI/CD-aligned packaging  | [![Live App](https://img.shields.io/badge/Live%20App-1E3A8A?style=for-the-badge&logo=streamlit)](https://augusto-mate-aegismon.streamlit.app/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/augusto-mate/aegismon) |
 | 📁 **AI Ethics & Responsibility** | Responsible AI in Software Engineering, with emphasis on practical application and research evidence | [![Live App](https://img.shields.io/badge/Live%20App-0096C7?style=for-the-badge&logo=github)](https://software-development-course-2025.github.io/ai-se-w07-ethics-responsibility/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/software-development-course-2025/ai-se-w07-ethics-responsibility) |
-| ☁️ **Google Drive Magnet Flow** | Colab-based workflow to download, verify, and securely upload magnet links to Google Drive, ensuring integrity and seamless cloud access | [![Live App](https://img.shields.io/badge/Live%20App-DCDCDC?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/augusto-mate/google-drive-magnet-flow/blob/main/google_drive_magnet_flow.ipynb) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/augusto-mate/google-drive-magnet-flow) |
+| ☁️ **Drive Magnet Flow** | Colab-based workflow to download and securely upload magnet links to Google Drive, ensuring integrity and seamless cloud access | [![Live App](https://img.shields.io/badge/Live%20App-DCDCDC?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/augusto-mate/google-drive-magnet-flow/blob/main/google_drive_magnet_flow.ipynb) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/augusto-mate/google-drive-magnet-flow) |
 | 📑 **LearnLoop** | Educational platform that combines AI and peer teaching so students explain what they have learned, retaining more knowledge | [![Live App](https://img.shields.io/badge/Live%20App-2F2F2F?style=for-the-badge&logo=netlify)](https://learnloop-ai.netlify.app/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/augusto-mate/learnloop) |
 | 📰 **TruthSnap** | A lean web application that detects possible fake news via textual analysis, without relying on external services or ML models | [![Live App](https://img.shields.io/badge/Live%20App-0096C7?style=for-the-badge&logo=github)](https://augusto-mate.github.io/truthsnap/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/augusto-mate/truthsnap) |
 | 🟠 **Ubuntu Requests** | Python script for searching and organizing web images, inspired by the Ubuntu philosophy and targeting safe use | [![Live App](https://img.shields.io/badge/Live%20App-1E3A8A?style=for-the-badge&logo=streamlit)](https://augusto-mate-ubuntu-requests.streamlit.app/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-00b4d8?style=for-the-badge&logo=github)](https://github.com/augusto-mate/ubuntu_requests) |
@@ -226,23 +226,23 @@ i4j5k6l Setup: Configure Linux environment for GPU acceleration
 
 1. On the pursuit of knowledge:
 
-      “The heart of the discerning acquires knowledge, and the ears of the wise seek wisdom.” — Proverbs 18:15
+      “The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.” — Proverbs 18:15
 
 2. On Ethics and Integrity in Technology:
 
-      “The integrity of the upright guides them, but the perversity of the treacherous destroys them.” — Proverbs 11:3
+      “The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.” — Proverbs 11:3
 
 3. On Protection (Cybersecurity):
 
-      “He who dwells in the shelter of the Most High will rest in the shadow of the Almighty. I will say of the Lord, ‘He is my God, my refuge, my fortress, in whom I trust.’” — Psalm 91:1-2
+      “He that dwelleth in the secret place of the Most High shall abide under the shadow of the Almighty. I will say of the LORD, ‘He is my refuge and my fortress: my God; in him will I trust.’” — Psalm 91:1-2
 
 4. On Purpose and Impact:
 
-      “Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.” — Colossians 3:23
+      “And whatsoever ye do, do it heartily, as to the Lord, and not unto men; Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.” — Colossians 3:23-24
 
 5. On Peace in Digital Chaos:
 
-      “For God did not give us a spirit of timidity, but a spirit of power, love, and self-discipline.” — 2 Timothy 1:7
+      “For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.” — 2 Timothy 1:7
 
 ENDS_HERE_QUOTE_INSPIRATION-->
 
